@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheTavakoli1
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Responsive
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: coding
+- 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The shortest war in history lasted only 38 minutes! It was between Britain and Zanzibar on August 27, 1896.
 
