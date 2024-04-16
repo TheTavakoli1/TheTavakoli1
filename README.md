@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmad Tavakoli
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Responsive ( Bootstrap ) and python
-- 💞️ I’m looking to collaborate on I would like to discuss potential partnerships for our upcoming event.
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The shortest war in history lasted only 38 minutes! It was between Britain and Zanzibar on August 27, 1896.
