@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The shortest war in history lasted only 38 minutes! It was between Britain and Zanzibar on August 27, 1896.
+- ⚡ Fun fact: The average person spends about six months of their lifetime waiting for red lights to turn green
 
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
