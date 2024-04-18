@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Tavakoli
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and  AI
 - 🌱 I’m currently learning Web Responsive ( Bootstrap ) and Python
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
