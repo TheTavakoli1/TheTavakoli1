@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The average person spends about six months of their lifetime waiting for red lights to turn green
+- ⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
 
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
