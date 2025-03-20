@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!
+- ⚡ Fun fact: Botanically speaking, a berry is a fruit that develops from a single ovary and has multiple seeds inside. Bananas fit this definition, but strawberries don’t because they form from a flower with multiple ovaries, making them an “aggregate fruit” instead of a true berry.
 
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
