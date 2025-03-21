@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Botanically speaking, a berry is a fruit that develops from a single ovary and has multiple seeds inside. Bananas fit this definition, but strawberries don’t because they form from a flower with multiple ovaries, making them an “aggregate fruit” instead of a true berry.
+- ⚡ Fun fact: GitHub was created in 2008 by three developers as a side project to make collaborating on code easier. It’s named after Git, the version control system created by Linux founder Linus Torvalds.
 
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
