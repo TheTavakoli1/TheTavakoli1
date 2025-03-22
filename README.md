@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmad Tavakoli
 - 👀 I’m interested in Coding and  AI
 - 🌱 I’m currently learning Deep Learning, Computer Vision and LLM
-- 💞️ I’m looking to collaborate on Front-End Development and A.I
+- 💞️ I’m looking to collaborate on A.I
 
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
