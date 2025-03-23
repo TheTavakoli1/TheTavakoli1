@@ -5,7 +5,8 @@
 
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: GitHub was created in 2008 by three developers as a side project to make collaborating on code easier. It’s named after Git, the version control system created by Linux founder Linus Torvalds.
+- ⚡ Fun fact: Octopuses have three hearts! 🐙
+Two hearts pump blood to the gills, while the third pumps it to the rest of the body. Interestingly, when an octopus swims, the heart that pumps to the body actually stops beating, which is why they prefer crawling to swimming — it's less exhausting!
 
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
