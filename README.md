@@ -5,9 +5,7 @@
 
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Octopuses have three hearts! 🐙
-Two hearts pump blood to the gills, while the third pumps it to the rest of the body. Interestingly, when an octopus swims, the heart that pumps to the body actually stops beating, which is why they prefer crawling to swimming — it's less exhausting!
-
+- ⚡ Fun fact: A cloud weighs around a million tonnes. A cloud typically has a volume of around 1km3 and a density of around 1.003kg per m3 – that's a density that’s around 0.4 per cent lower than the air surrounding it (this is how they are able to float).
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
