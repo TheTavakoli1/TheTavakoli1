@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Africa is the only continent in all four hemispheres.
+- ⚡ Fun fact: Australia is wider than the moon.
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
