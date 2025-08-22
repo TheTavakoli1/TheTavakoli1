@@ -6,7 +6,10 @@
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Koalas have fingerprints.
-- [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,react,git,docker)](https://skillicons.dev)
+- ## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch)](https://skillicons.dev)
+
 
   
 <!---
