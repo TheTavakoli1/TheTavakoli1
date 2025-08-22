@@ -6,9 +6,10 @@
 - 📫 How to reach me: www.linkedin.com/in/thetavakoli1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Koalas have fingerprints.
+- [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,react,git,docker)](https://skillicons.dev)
+
+  
 <!---
 TheTavakoli1/TheTavakoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,react,git,docker)](https://skillicons.dev)
-
 --->
