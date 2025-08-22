@@ -9,7 +9,7 @@
   
 - ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=,python,sklearn,opencv,tensorflow,git,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,python,opencv,sklearn,tensorflow,git,wordpress)](https://skillicons.dev)
 
 
   
