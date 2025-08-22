@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Koalas have fingerprints.
 - ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,python,sklearn,opencv,tensorflow,pytorch)](https://skillicons.dev)
 
 
   
